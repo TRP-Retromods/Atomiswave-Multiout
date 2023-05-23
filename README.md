@@ -1,11 +1,11 @@
-Atomiswave Multiout
+# Atomiswave Multiout
 ---
+Get Composite, RGB or S-Video output from your Atomiswave, using the VGA output
+
+
 
 (c) 2023 by The Real Phoenix
 From a design originaly from Mike Chi's VGA2SCART
-
-# Atomiswave Multiout
-Get Composite, RGB or S-Video output from your Atomiswave, using the VGA output
 
 
 ## Features:
