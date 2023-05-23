@@ -7,8 +7,9 @@ Get Composite, RGB or S-Video output from your Atomiswave, using the VGA output
 
 
 (c) 2023 by The Real Phoenix
-From a design originaly from Mike Chi's VGA2SCART
+Design from Mike Chi's VGA2SCART
 
+---
 
 ## Features:
 - The motherboard is doing all the job, the "hat" or daughterboard is the one with the output connectors, so you can make one for your needs
@@ -21,7 +22,8 @@ From a design originaly from Mike Chi's VGA2SCART
 - The connector to audio/power is tricky to find, I found some on eBay: https://www.ebay.ca/itm/184681041924
 
 
-# Links for the Programmer and classic DFO:
+---
+### Links for the Programmer and classic DFO:
 https://nfggames.com/forum2/index.php?topic=5744.0
 https://oshpark.com/profiles/micro
 
