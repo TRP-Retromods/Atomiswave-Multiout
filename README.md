@@ -2,6 +2,8 @@
 ---
 Get Composite, RGB or S-Video output from your Atomiswave, using the VGA output
 
+![PCB xemple](https://github.com/TRP-Retromods/Atomiswave-Multiout/blob/main/PICS/1.jpg)
+![workinunit exemple](https://github.com/TRP-Retromods/Atomiswave-Multiout/blob/main/PICS/2.jpg)
 
 
 (c) 2023 by The Real Phoenix
